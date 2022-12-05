@@ -8,7 +8,7 @@ $_['text_success']       	= 'Success: You have modified creditcard account detai
 $_['text_edit']          	= 'Edit Oceanpayment CreditCard Payment';
 $_['text_op_creditcard'] 	= '<img src="view/image/payment/op_creditcard.png" alt="creditcard" height="25"  title="creditcard" style="border: 1px solid #EEEEEE;" />';
 $_['text_pay']           	= 'https://secure.oceanpayment.com/gateway/service/pay';
-$_['text_test']          	= 'https://secure.oceanpayment.com/gateway/service/test';
+$_['text_test']          	= 'https://test-secure.oceanpayment.com/gateway/service/pay';
 $_['text_pay_iframe']    	= 'Iframe';
 $_['text_pay_redirect']  	= 'Redirect';
 $_['text_code_online']    	= 'Online';
